@@ -78,3 +78,8 @@ insert into Professor values(59,12,'홍계원','xxxxxx-xxxxxxx','031-8041-0335','gw
 insert into Professor values(60,12,'김성수','xxxxxx-xxxxxxx','031-8041-0322','sskim@kpu.ac.kr','공학관 C동 312호',NULL);
 
 --select * from Professor;
+
+--test case
+
+insert into Professor values(61,5,'이태서','xxxxxx-xxxxxxx','031-1234-5678','yts@kpu.ac.kr','공학관 E동 216호',NULL);
+insert into Professor values(145,5,'Tux','xxxxxx-xxxxxxx','031-1724-8395','tux@kpu.ac.kr','공학관 E동 213호',NULL);
